@@ -1,0 +1,10 @@
+Player            -  Time
+-------------------------
+Nuno Verissimo        3
+Carvalho Jesus        4
+Carlos Verissi        9
+Nu no                 10
+Nuno Carvalho         11
+Nuno Jesus            21
+Nuno Jesus            29
+Carlos Verissi        468

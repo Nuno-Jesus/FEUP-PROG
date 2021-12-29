@@ -1,0 +1,5 @@
+Player               Time
+-------------------------
+Carlos Verissimo     4
+Nuno Jesus     5
+Nuno Jesus     12

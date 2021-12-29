@@ -1,0 +1,24 @@
+-------------------------------------------------
+|   0101101  0     1  0       0101101 0101101   |
+|   1      0 0     1  0       1       1         |
+|   0101101  0     1  1       1101    0101101   |
+|   0     1  0     1  0       0             1   |
+|   1      0 0101101  0101101 0101101 0101101   |
+-------------------------------------------------
+
+Symbols:
+* -> Eletrified fence/post
++ -> Non-eletrified fence/post
+O -> Escape gates
+R -> Alive robot
+r -> Stuck robot/Robot pile
+H -> Player
+h -> Dead player
+
+--> You'll be placed in a maze made up of fences, posts and robots that will try to destroy you.
+--> If you touch the eletrified fences, posts or any of the robots, it's game over.
+--> If you try to move towards a non-eletrified fence/post, you won't move at all (as if you didn't play).
+--> Robots are also destroyed when they touch the fences/posts or when they collide with each other.
+--> Every time you move in any direction, each robot will move one step closer to your cell.
+--> You win the game if you make all the robots hit the maze or each other, or escape through one of the gates.
+--> Good luck and have fun!
