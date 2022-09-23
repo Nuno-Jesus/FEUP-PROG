@@ -1,12 +1,8 @@
-# PROG 2020-2021 repository
+# PROG
 
-Group T0902
+This repository contains code developed by [me](https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico=201905477) in the pratical classes of the PROG Curricular Unit in [2020/2021](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459468), including the final project also developed by [Carlos Veríssimo](https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico=201907716).
 
-| Members | E-mail |
-| ------ | ------ |
-| Carlos Verissimo | up201907716@edu.fe.up.pt |
-| Nuno Jesus | up201905477@edu.fe.up.pt |
-
----
-
-**Course:** Programação (https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459468)
+## Final Grade
+|Project 1|Project 2|Final Exam|FINAL|
+|:-----:|:-----:|:-----:|:-----:|
+|17.2|17.7|18.1|18|
